@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-23T13:34:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">New blog</title><link href="http://localhost:4000/2022/12/23/test.html" rel="alternate" type="text/html" title="New blog" /><published>2022-12-23T09:57:00+01:00</published><updated>2022-12-23T09:57:00+01:00</updated><id>http://localhost:4000/2022/12/23/test</id><content type="html" xml:base="http://localhost:4000/2022/12/23/test.html">&lt;p&gt;Laziness can be a disease. Unfortunately my brain decided to just stop writing blog articles about stuff I do. This does not mean that I ever stopped. Oh hell no, I even did too much since I last blogged about my life. Things changed drastically in the last 12 months: moving to Central London to work fulltime, having two cats as well as enjoying life more than ever.&lt;/p&gt;
+
+&lt;p&gt;But let’s not talk about boring stuff for now, what can you guys expect on here?&lt;/p&gt;
+
+&lt;p&gt;Let’s sum up some things I want to talk about in the next weeks and months:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Java/Javascript/Groovy/’insert your favourite language here’ tips and tricks!&lt;/li&gt;
+  &lt;li&gt;Working with &lt;a href=&quot;https://aws.amazon.com/&quot;&gt;AWS&lt;/a&gt; and CIs like Jenkins, TravisCI or Bamboo&lt;/li&gt;
+  &lt;li&gt;Motivation, Work/Life Balance&lt;/li&gt;
+  &lt;li&gt;gamedev!!!111 and pixelart&lt;/li&gt;
+  &lt;li&gt;Gaming and Twitter drama&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sounds interesting? Let’s see what the future holds. See you!&lt;/p&gt;</content><author><name></name></author><category term="introduction" /><summary type="html">Laziness can be a disease. Unfortunately my brain decided to just stop writing blog articles about stuff I do. This does not mean that I ever stopped. Oh hell no, I even did too much since I last blogged about my life. Things changed drastically in the last 12 months: moving to Central London to work fulltime, having two cats as well as enjoying life more than ever.</summary></entry></feed>
